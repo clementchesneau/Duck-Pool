@@ -1,7 +1,7 @@
 # Duck-Pool
 
 This is a school project I made in Java. We had to do a pool with rocks 
-and water lilies were ducks could born, move around the pool without going 
+and water lilies where ducks could born, move around the pool without going 
 out or being in a place were there is a rock. They could eat water lilies and grow as they do so.
 If a duck became king size he would become a big duck and change color, he would also whistle sometimes.
 
