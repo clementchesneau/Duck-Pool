@@ -14,3 +14,7 @@ Don't forget to download the ressources too, they must be in the same folder as 
 
 There is an explanation of the code in the .pdf file.
 Careful it's in french.
+
+## Picture
+
+![image](https://user-images.githubusercontent.com/10097537/119501265-018a7900-bd69-11eb-8706-d09c55f068ee.png)
